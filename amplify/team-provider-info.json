@@ -20,16 +20,16 @@
             }
         }
     },
-    "link": {
+    "master": {
         "awscloudformation": {
-            "AuthRoleName": "amplify-todo-link-203944-authRole",
-            "UnauthRoleArn": "arn:aws:iam::745415801616:role/amplify-todo-link-203944-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::745415801616:role/amplify-todo-link-203944-authRole",
+            "AuthRoleName": "amplify-todo-master-212206-authRole",
+            "UnauthRoleArn": "arn:aws:iam::745415801616:role/amplify-todo-master-212206-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::745415801616:role/amplify-todo-master-212206-authRole",
             "Region": "eu-west-2",
-            "DeploymentBucketName": "amplify-todo-link-203944-deployment",
-            "UnauthRoleName": "amplify-todo-link-203944-unauthRole",
-            "StackName": "amplify-todo-link-203944",
-            "StackId": "arn:aws:cloudformation:eu-west-2:745415801616:stack/amplify-todo-link-203944/5e1ac6a0-783e-11ea-8e8b-06af0f49b59c",
+            "DeploymentBucketName": "amplify-todo-master-212206-deployment",
+            "UnauthRoleName": "amplify-todo-master-212206-unauthRole",
+            "StackName": "amplify-todo-master-212206",
+            "StackId": "arn:aws:cloudformation:eu-west-2:745415801616:stack/amplify-todo-master-212206/49e75cb0-7844-11ea-af11-06452e71541c",
             "AmplifyAppId": "d3td6nobxf4gh2"
         },
         "categories": {
